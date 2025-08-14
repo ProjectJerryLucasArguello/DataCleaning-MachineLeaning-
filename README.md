@@ -1,1 +1,7 @@
 # DataCleaning-MachineLeaning
+
+## Reflection
+On 8/13/25 I have completed cleaning the life-expentacy csv file. This process was based on the video <a href="https://youtu.be/GP-2634exqA?si=N3yL0FToekCeZ6SL">🚀 Data Cleaning/Data Preprocessing Before Building a Model - A Comprehensive Guide</a>.
+From that video I learned that there's a system when cleaning data. Or rather what should I be looking for in that dataset. For one is that I shouldn't dive into the dataset, and just "clean up" because what am I "cleaning up"? My last attempt on the machine learning project under <a href="https://github.com/ProjectJerryLucasArguello/Machine-Learning-Experiential.git">Machine Learning Experimental</a> I wasn't cleaning up the data with a clear goal in mind for my machine learning model. Like the whole purpose of cleaning data from what I understand is to isolate certain variables and look at certain target variables. Here it was me looking at this nyc housing price dataset and was like "Okay I want to look at this! No! That! This and that this and this and..!" It was just me going about it with no clear answer. The video taht I followed showed me there are multiple things to consider when cleaning data. For instance what is the shape of the data? Are there any outliers? Is there some encoding we should add for the sake of our model? Though tedious these question are quite important to ask ones self when building a machine learning model. Not just that when actually looking at the data and making well-educated conclusions.
+
+## What I Learned
